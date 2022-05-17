@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "quantile", "rchisq", "rnorm", "runif", "var", "qnorm")
+S3method(summary, "BayesMultMeta")
+S3method(plot, "BayesMultMeta")
+importFrom("graphics", "abline", "title")
+importFrom("grDevices", "topo.colors")
+importFrom(Rdpack,reprompt)
