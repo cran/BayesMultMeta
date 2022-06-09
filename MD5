@@ -1,10 +1,10 @@
-b16d1405e91dc5b2c88bad5f9f11ff1b *DESCRIPTION
+e4b8beba386dbdec7e81b7c26bcad347 *DESCRIPTION
 b355722b59128d1ff2c0d318d4eb6dcb *LICENSE
 db51dd57e77b58786677a147161e2b98 *NAMESPACE
 1dfabb4adfec52e703fdced9903fd020 *R/BayesMultMeta.R
 9437e62517d9242f7ba8ded715fa4082 *R/MH_sample_post.R
-a35a115db2719f56ef53a0cab2f7d969 *README.md
-9f8be218f2ef94ed6b2f1bbcd3560af7 *build/partial.rdb
+7c28a1d347b0a968a40fabbead2ec0a7 *README.md
+c8ec7bf9888e1723116c0f1b9750cac1 *build/partial.rdb
 70964eaf3db7a97c52b3c82063995f0b *inst/REFERENCES.bib
 d41d8cd98f00b204e9800998ecf8427e *inst/REFERENCES.bib.sav.tmp
 07f0384f3e69dd4fd518425de1815c10 *man/BayesMultMeta.Rd

@@ -1,9 +1,9 @@
 Package: BayesMultMeta
 Type: Package
 Title: Bayesian Multivariate Meta-Analysis
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
-    c(person(given = "Ohla", 
+    c(person(given = "Olha", 
              family = "Bodnar", 
              role = "aut",
              comment = c(ORCID = "0000-0003-1359-3311")),
@@ -16,7 +16,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "erik.thorsen@math.su.se",
            comment = c(ORCID = "0000-0001-5992-1216")))
-Author: Ohla Bodnar [aut] (<https://orcid.org/0000-0003-1359-3311>),
+Author: Olha Bodnar [aut] (<https://orcid.org/0000-0003-1359-3311>),
   Taras Bodnar [aut] (<https://orcid.org/0000-0001-7855-8221>),
   Erik Thorsén [aut, cre] (<https://orcid.org/0000-0001-5992-1216>)
 Maintainer: Erik Thorsén <erik.thorsen@math.su.se>
@@ -40,6 +40,6 @@ Suggests: mvmeta, gplots, testthat
 RoxygenNote: 7.1.2
 RdMacros: Rdpack
 NeedsCompilation: no
-Packaged: 2022-05-16 08:22:13 UTC; ethor
+Packaged: 2022-06-08 19:46:32 UTC; ethor
 Repository: CRAN
-Date/Publication: 2022-05-17 16:50:05 UTC
+Date/Publication: 2022-06-09 08:10:27 UTC

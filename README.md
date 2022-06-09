@@ -1,4 +1,4 @@
-# BayesMultMeta - Objective Bayesian meta-analysis 
+# BayesMultMeta - Bayesian Multivariate Meta-Analysis
 This package implements the methods developed in [[1]](#1)
 
 To simulate samples from the posterior using the methods developed in the paper you simply need to run
